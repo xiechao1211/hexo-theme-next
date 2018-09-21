@@ -3,6 +3,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta name="theme-color" content="{{ theme.android_chrome_color }}">
 <meta name="google-site-verification" content="Mc82LJcbDd87ZcH0HP6sw3_CAUfYTHGmA-K6c9qG9Jc" />
+<meta name="google-site-verification" content="B6cs0Ll9qGV48z8kmMekSBRLDpUCBbvQJ4hu3XqhtkU" />
+<meta name="baidu-site-verification" content="dIhGiIpnID" />
 
 
 {% if theme.pace %}
