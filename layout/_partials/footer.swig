@@ -45,4 +45,3 @@
   #}{{ theme.footer.custom_text }}{#
 #}</div>
 {% endif %}
-<p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold" target="_blank">Coding Pages</a></p>
